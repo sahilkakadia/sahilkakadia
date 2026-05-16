@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**sahilkakadia/sahilkakadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate passionate about Artificial Intelligence, Data Science, and Full Stack Development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- React.js
+- Node.js
+- MongoDB
+- AWS
+- TensorFlow
+- OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Attendance Management System Using Face Detection
+- Plant Disease Detection System
+- Amazon Clone E-Commerce Platform
+
+## 🌱 Currently Learning
+- Advanced Data Science
+- AI Applications
+- Indian Sign Language
